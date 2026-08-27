@@ -1,70 +1,111 @@
 <h1 align="center">Hi, I'm Banan 👋🏻</h1>
 
 <h3 align="center">
-Cybersecurity | SOC Analysis | Web Development
+Cybersecurity | SOC Analysis | Defensive Security
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00FF00&center=true&vCenter=true&width=600&lines=Aspiring+SOC+Analyst;Cybersecurity+Enthusiast;Threat+Detection+%7C+Incident+Investigation;Always+Learning%2C+Always+Improving" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00FF00&center=true&vCenter=true&width=650&lines=Aspiring+SOC+Analyst;Cybersecurity+Enthusiast;Threat+Detection+%7C+Security+Monitoring;Investigating+%7C+Analyzing+%7C+Defending" />
 </p>
 
 ---
 
-### 🖤 About Me
+## 🛡️ About Me
 
 I'm a Cybersecurity enthusiast building my path toward SOC Analysis and defensive security.
 
-I enjoy understanding what's happening behind security alerts, investigating suspicious activity, and connecting the dots to understand how an incident happened.
+I'm interested in understanding what happens behind security alerts, analyzing suspicious activity, investigating incidents, and connecting the dots to understand how threats happen and how they can be detected and handled.
 
-I also have a background in Web Development, which gives me a different perspective when looking at applications and their security.
+I enjoy learning by doing, exploring security concepts, and turning what I learn into practical projects and labs.
 
 ---
 
-### 🛡️ What I'm Interested In
+## 🔐 Cybersecurity Focus
 
 - 🔍 Security Monitoring & Threat Detection
 - 🚨 Incident Investigation & Response
-- 🧠 Understanding Attacker Behavior
-- 🌐 Network & Application Security
-- 🐧 Linux & Security Operations
 - 📊 Log Analysis & Security Events
+- 🌐 Network Security & Traffic Analysis
+- 🛡️ Defensive Security
+- 🦠 Malware & Suspicious Activity Analysis
+- 🐧 Linux Security & System Analysis
+- 🧠 Understanding Attacker Behavior
 
 ---
 
-### 💻 Tech Background
+## 💻 Technical Skills
 
-*Cybersecurity*
-SOC Analysis Threat Detection Network Security
+### 🐍 Programming & Scripting
+![Python](https://img.shields.io/badge/Python-000000?style=flat&logo=python&logoColor=00FF00)
+![C++](https://img.shields.io/badge/C++-000000?style=flat&logo=cplusplus&logoColor=00FF00)
+![C%23](https://img.shields.io/badge/C%23-000000?style=flat&logo=csharp&logoColor=00FF00)
 
-*Development*
-HTML CSS JavaScript Python C++ C#
+### 🌐 Networking
+![TCP/IP](https://img.shields.io/badge/TCP%2FIP-000000?style=flat&logoColor=00FF00)
+![Linux](https://img.shields.io/badge/Linux-000000?style=flat&logo=linux&logoColor=00FF00)
 
-*Tools & Technologies*
-Linux Git GitHub SQL MongoDB
+- TCP/IP
+- IPv4 & IPv6
+- DNS & DHCP
+- Network Protocols
+- Network Traffic Analysis
+- Basic Network Troubleshooting
+
+### 🛡️ Security Operations
+
+- SOC Fundamentals
+- Security Monitoring
+- Alert Analysis
+- Log Analysis
+- Threat Detection
+- Incident Response
+- Security Investigation
 
 ---
 
-### 🚀 Currently
+## 🧪 What I'm Working On
 
-> Building my cybersecurity foundation, exploring SOC operations, and turning every new concept into practical knowledge.
+> Building my SOC skill set through hands-on labs, security investigations, networking, Linux, and practical cybersecurity projects.
 
 ---
 
-### 📂 What You'll Find Here
+## 📂 What You'll Find Here
 
-🔹 Cybersecurity projects & labs  
-🔹 Web development projects  
-🔹 Programming practice  
-🔹 Experiments & things I'm learning along the way
+🔹 Cybersecurity labs  
+🔹 SOC & Blue Team projects  
+🔹 Network security experiments  
+🔹 Python security scripts  
+🔹 CTFs & security challenges  
+🔹 Notes and practical learning
+
+---
+
+## 📫 Connect With Me
+
+<p align="center">
+
+<a href="[YOUR_LINKEDIN_UR](https://www.linkedin.com/in/banan-ibraham?utm_source=share_via&utm_content=profile&utm_medium=member_ios)L">
+<img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=00FF00">
+</a>
+
+<a href="mailto:bananibraham@ouutlook.com">
+<img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=00FF00">
+</a>
+
+<a href="YOUR_CV_URL">
+<img src="https://img.shields.io/badge/Resume-000000?style=for-the-badge&logo=readthedocs&logoColor=00FF00">
+</a>
+
+<a href="YOUR_PORTFOLIO_URL">
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=00FF00">
+</a>
+
+</p>
 
 ---
 
 <h3 align="center">
 
-"Think like an attacker. Defend like an analyst."
+🔒 Detect. Investigate. Defend.
 
 </h3>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=00ff00&style=flat" />
-</p>
