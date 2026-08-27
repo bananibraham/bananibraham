@@ -1,7 +1,7 @@
-<h1 align="center">Hi, I'm Banan 👋🏻</h1>
+<h1 align="center">Hi there, I'm Banan 👋🏻</h1>
 
 <h3 align="center">
-Cybersecurity | SOC Analysis | Defensive Security
+Cybersecurity | SOC Analysis 
 </h3>
 
 <p align="center">
